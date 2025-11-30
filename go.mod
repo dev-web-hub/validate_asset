@@ -1,3 +1,3 @@
-module github.com/max/validate_asset
+module github.com/dev-web-hub/validate_asset
 
 go 1.22
